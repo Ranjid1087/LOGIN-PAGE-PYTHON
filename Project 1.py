@@ -10,10 +10,10 @@ sh=win.winfo_screenheight()
 win.configure(width=sw,height=sh,bg='ORANGE')
 
 
-path=Image.open("E://Pictures//image 1.PNG")
+'''path=Image.open("E://Pictures//image 1.PNG")
 res=ImageTk.PhotoImage(path)
 imglabel=tkinter.Label(win,image=res)
-imglabel.place(x=840,y=160)
+imglabel.place(x=840,y=160)'''
 
 
 def login():
