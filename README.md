@@ -69,10 +69,7 @@ Click "Signup" button
 
 Screenshots
 ![image alt](https://github.com/Ranjid1087/LOGIN-PAGE-PYTHON/blob/bd6324d900fe0882975fafeabb5726ffe681b59d/User%20Interface%20SS.png)
-Login interface with form validation
-
-https://screenshots/signup-success.png
-Successful registration message
+Login interface with form validation.
 
 Code Structure
 login(): Handles user authentication
