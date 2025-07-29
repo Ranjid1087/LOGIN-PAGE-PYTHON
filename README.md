@@ -68,7 +68,7 @@ Create a strong password meeting requirements
 Click "Signup" button
 
 Screenshots
-https://screenshots/login.png
+![image alt](https://github.com/Ranjid1087/LOGIN-PAGE-PYTHON/blob/bd6324d900fe0882975fafeabb5726ffe681b59d/User%20Interface%20SS.png)
 Login interface with form validation
 
 https://screenshots/signup-success.png
@@ -84,7 +84,7 @@ clearfun(): Clears form fields
 GUI elements: Labels, entry fields, and buttons
 
 
-![image alt](https://github.com/Ranjid1087/LOGIN-PAGE-PYTHON/blob/bd6324d900fe0882975fafeabb5726ffe681b59d/User%20Interface%20SS.png)
+
 
 
 Contributing
